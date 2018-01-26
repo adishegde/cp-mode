@@ -13,6 +13,7 @@
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
+    "loglevel": "^1.6.1",
     "util.promisify": "^1.0.0"
   }
 }
