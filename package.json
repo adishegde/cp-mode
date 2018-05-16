@@ -2,7 +2,7 @@
   "name": "cp-mode",
   "main": "./lib/cp-mode",
   "version": "0.0.0",
-  "description": "A short description of your package",
+  "description": "Atom plugin for competitive programming.",
   "keywords": [],
   "activationCommands": {
     "atom-workspace": "cp-mode:toggle"
